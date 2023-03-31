@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\bin\Debug\net6.0\EncriptarContraseña.exe
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\bin\Debug\net6.0\EncriptarContraseña.deps.json
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\bin\Debug\net6.0\EncriptarContraseña.runtimeconfig.json
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\bin\Debug\net6.0\EncriptarContraseña.dll
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\bin\Debug\net6.0\EncriptarContraseña.pdb
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\obj\Debug\net6.0\EncriptarContraseña.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\obj\Debug\net6.0\EncriptarContraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\obj\Debug\net6.0\EncriptarContraseña.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\obj\Debug\net6.0\EncriptarContraseña.AssemblyInfo.cs
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\obj\Debug\net6.0\EncriptarContraseña.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\obj\Debug\net6.0\EncriptarContraseña.dll
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\obj\Debug\net6.0\refint\EncriptarContraseña.dll
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\obj\Debug\net6.0\EncriptarContraseña.pdb
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\obj\Debug\net6.0\EncriptarContraseña.genruntimeconfig.cache
+C:\Users\lucas\Desktop\EncriptarContraseñaAPP\EncriptarContraseña\EncriptarContraseña\obj\Debug\net6.0\ref\EncriptarContraseña.dll
